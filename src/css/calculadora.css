@@ -3,6 +3,19 @@
     margin-bottom: 4px;
 }
 .kz-input-text {
+    display: inline-block;
+    font-weight: 400;
     width: 173px !important;
     margin-bottom: 4px;
+    text-align: right;
+    border: 1px solid transparent;
+    line-height: 1.5;
+    border-radius: .25rem;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    background-color: aquamarine;
+}
+
+.fundo {
+    background-color: white;
 }
